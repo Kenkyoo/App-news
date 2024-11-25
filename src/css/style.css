@@ -1,0 +1,8 @@
+.disaplayInput{
+    display: none;
+}
+
+#textSelect option {
+    text-transform: capitalize;
+}
+  

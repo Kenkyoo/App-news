@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es-ar" data-mdb-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feed News</title>
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
+    <!-- CSS -->
+     <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+      <div class="text-center my-3">
+        <h1 class="mb-3">Titulares principales</h1>
+        <h5 class="mb-4">Titulares destacados y de última hora en vivo en Argentina</h5>
+      </div> 
+    </header>
+    <main>
+      <div class="container">
+      <!-- Image and text -->
+      <nav class="navbar navbar-light bg-body-tertiary mx-auto my-3" style="width: 48rem">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+          <img
+        src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
+        class="me-2"
+        height="20"
+        alt="MDB Logo"
+        loading="lazy"
+          />
+          <small>MDBootstrap</small>
+          </a>
+          <select class="form-select p-1 w-50" id="textSelect" data-mdb-select-init data-mdb-placeholder="Categorias"></select>
+          <li class="nav-item align-items-center d-flex" >
+            <i class="fas fa-sun"></i>
+            <!-- Default switch -->
+            <div class="ms-2 form-check form-switch">
+              <input class="form-check-input" type="checkbox" role="switch" id="themingSwitcher" />
+            </div>
+            <i class="fas fa-moon"></i>
+          </li>
+        </div>
+      </nav>
+      <div class="card d-flex justify-content-center mx-auto" style="width: 48rem">
+        <div class="card-body">
+          <!--Table-->
+          <table class="table-responsive">
+          </table>
+          <table class="table table-hover table-forum text-center">
+            <!--Table head-->
+            <thead>
+              <tr>
+                <th></th>
+                <th class="text-left">Topic</th>
+                <th>Comments</th>
+              </tr>
+            </thead>
+            <!--Table head-->
+            <!--Table body-->
+            <tbody id="articles-container">
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    </main>
+    <div class="spinner-border" role="status">
+      <span class="invisible" id="spinner">Loading...</span>
+    </div>        
+    <script type="module" src="js/app.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/select.js"></script>
+    <script src="https://unpkg.com/scrollreveal"></script>
+</body>
+</html>
