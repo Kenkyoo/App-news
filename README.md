@@ -4,10 +4,16 @@ Este proyecto consume la API de [NewsAPI](https://newsapi.org/) para mostrar las
 
 ## Cómo Ejecutarlo Localmente
 
-Clona este repositorio:
+1. Clona este repositorio:
 
-git clone https://github.com/tu-usuario/news-fetcher.git
+   ```bash
+   git clone https://github.com/tu-usuario/news-fetcher.git
+
+2. Instala un servidor local (como live-server):
 npm install -g live-server
+
+3. Ejecuta el proyecto:
+
 live-server
 
 Tecnologías Usadas
