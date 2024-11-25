@@ -25,6 +25,7 @@ function fetchNews(category) {
     .then(response => response.json())
     .then(data => {
       document.getElementById('articles-container').innerHTML = '';
+      console.log(data);
       data.articles.forEach(article => {
         showArticles(article);
       });

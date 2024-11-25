@@ -1,16 +1,17 @@
-12197
+12195
+42/home/franco/Proyectos/API News/.gitignore1732528426227596761 0
 59/home/franco/Proyectos/API News/dist/index.2cdaf7bc.css.map1723893962951578297 0
 55/home/franco/Proyectos/API News/dist/index.c92073ef.css1723943778895504206 0
 54/home/franco/Proyectos/API News/dist/index.0641b553.js1723893962927578298 0
 55/home/franco/Proyectos/API News/dist/index.2cdaf7bc.css1723893962871578300 0
 54/home/franco/Proyectos/API News/dist/index.cb319aea.js1723943778895504206 0
-54/home/franco/Proyectos/API News/dist/index.59a40e7a.js1723943778895504206 0
+54/home/franco/Proyectos/API News/dist/index.59a40e7a.js1723961909779760902 0
 58/home/franco/Proyectos/API News/dist/index.7fd712b3.js.map1723943778959504203 0
 59/home/franco/Proyectos/API News/dist/index.c92073ef.css.map1723943778955504203 0
 55/home/franco/Proyectos/API News/dist/index.2212206d.css1723943778903504205 0
 54/home/franco/Proyectos/API News/dist/index.7a04dab6.js1723893962927578298 0
 54/home/franco/Proyectos/API News/dist/index.7fd712b3.js1723943778895504206 0
-58/home/franco/Proyectos/API News/dist/index.59a40e7a.js.map1723943778959504203 0
+58/home/franco/Proyectos/API News/dist/index.59a40e7a.js.map1723961909835760900 0
 49/home/franco/Proyectos/API News/src/css/style.css1723943761171505018 0
 39/home/franco/Proyectos/API News/src/css1723938643195739677 1
 47/home/franco/Proyectos/API News/src/js/theme.js1723893301175608639 0
@@ -125,10 +126,8 @@
 63/home/franco/Proyectos/API News/node_modules/term-size/index.js1723700699279900194 0
 65/home/franco/Proyectos/API News/node_modules/term-size/index.d.ts1723700699947900164 0
 83/home/franco/Proyectos/API News/node_modules/term-size/vendor/windows/term-size.exe1723700698999900207 0
-71/home/franco/Proyectos/API News/node_modules/term-size/vendor/.DS_Store1723700697999900253 0
-77/home/franco/Proyectos/API News/node_modules/term-size/vendor/macos/.DS_Store1723700698243900242 0
-67/home/franco/Proyectos/API News/node_modules/term-size/vendor/macos1723700698319900238 1
-61/home/franco/Proyectos/API News/node_modules/term-size/vendor1723700698455900232 1
+67/home/franco/Proyectos/API News/node_modules/term-size/vendor/macos1725240921218103886 1
+61/home/franco/Proyectos/API News/node_modules/term-size/vendor1725240921218103886 1
 67/home/franco/Proyectos/API News/node_modules/term-size/package.json1723700699471900185 0
 54/home/franco/Proyectos/API News/node_modules/term-size1723700699563900181 1
 80/home/franco/Proyectos/API News/node_modules/mdb-ui-kit/css/mdb.dark.min.css.map1723700925231889834 0
@@ -611,7 +610,7 @@
 62/home/franco/Proyectos/API News/node_modules/form-data/License1723701422371867040 0
 70/home/franco/Proyectos/API News/node_modules/form-data/lib/populate.js1723701422423867038 0
 91/home/franco/Proyectos/API News/node_modules/htmlnano/lib/modules/removeEmptyAttributes.mjs1723700704939899935 0
-54/home/franco/Proyectos/API News/node_modules/form-data1723701422475867036 1
+54/home/franco/Proyectos/API News/node_modules/form-data1725240921138103890 1
 68/home/franco/Proyectos/API News/node_modules/js-yaml/dist/js-yaml.js1723700701203900106 0
 72/home/franco/Proyectos/API News/node_modules/js-yaml/dist/js-yaml.min.js1723700701419900096 0
 69/home/franco/Proyectos/API News/node_modules/js-yaml/dist/js-yaml.mjs1723700702831900031 0
@@ -2877,7 +2876,7 @@
 83/home/franco/Proyectos/API News/node_modules/date-fns/locale/sv/_lib/formatLong.mjs1723891724295680939 0
 71/home/franco/Proyectos/API News/node_modules/picocolors/picocolors.d.ts1723700698375900236 0
 84/home/franco/Proyectos/API News/node_modules/date-fns/locale/sr/_lib/formatLong.d.ts1723891729107680718 0
-36/home/franco/Proyectos/API News/dist1723943778983504201 1
+36/home/franco/Proyectos/API News/dist1723961909863760898 1
 71/home/franco/Proyectos/API News/node_modules/date-fns/isSameMinute.d.ts1723891729471680702 0
 79/home/franco/Proyectos/API News/node_modules/date-fns/locale/hr/_lib/match.d.ts1723891729843680684 0
 77/home/franco/Proyectos/API News/node_modules/@parcel/transformer-posthtml/src1723700698403900234 1
@@ -3003,7 +3002,6 @@
 85/home/franco/Proyectos/API News/node_modules/date-fns/locale/gu/_lib/formatLong.d.mts1723891726087680857 0
 85/home/franco/Proyectos/API News/node_modules/lmdb/dependencies/lz4/lib/dll/liblz4.def1723700705335899917 0
 91/home/franco/Proyectos/API News/node_modules/date-fns/locale/fr-CH/_lib/formatRelative.d.ts1723891729171680715 0
-68/home/franco/Proyectos/API News/node_modules/form-data/README.md.bak1723701422383867040 0
 68/home/franco/Proyectos/API News/node_modules/@parcel/package-manager1723700703707899991 1
 82/home/franco/Proyectos/API News/node_modules/date-fns/locale/pt/_lib/formatLong.js1723891721115681085 0
 82/home/franco/Proyectos/API News/node_modules/has-property-descriptors/CHANGELOG.md1723702718215807626 0
@@ -3774,7 +3772,7 @@
 72/home/franco/Proyectos/API News/node_modules/type-fest/source/basic.d.ts1723700698855900214 0
 62/home/franco/Proyectos/API News/node_modules/parcel/src/cli.js1723700698903900211 0
 89/home/franco/Proyectos/API News/node_modules/date-fns/locale/eo/_lib/formatDistance.d.mts1723891725875680866 0
-31/home/franco/Proyectos/API News1723702796899804018 1
+31/home/franco/Proyectos/API News1732528439907596134 1
 102/home/franco/Proyectos/API News/node_modules/csso/node_modules/css-tree/lib/syntax/config/generator.js1723700706019899885 0
 86/home/franco/Proyectos/API News/node_modules/date-fns/locale/nl/_lib/formatRelative.js1723891721295681076 0
 93/home/franco/Proyectos/API News/node_modules/csso/node_modules/css-tree/cjs/definition-syntax1723700705183899923 1
@@ -8581,7 +8579,7 @@
 88/home/franco/Proyectos/API News/node_modules/date-fns/fp/eachDayOfIntervalWithOptions.js1723891720511681112 0
 72/home/franco/Proyectos/API News/node_modules/date-fns/fp/fromUnixTime.js1723891721395681072 0
 70/home/franco/Proyectos/API News/node_modules/date-fns/fp/isMonday.d.ts1723891729443680703 0
-47/home/franco/Proyectos/API News/dist/index.html1723943778891504206 0
+47/home/franco/Proyectos/API News/dist/index.html1723961909863760898 0
 71/home/franco/Proyectos/API News/node_modules/date-fns/fp/addWeeks.d.mts1723891725531680882 0
 75/home/franco/Proyectos/API News/node_modules/date-fns/fp/secondsToHours.mjs1723891725283680894 0
 77/home/franco/Proyectos/API News/node_modules/date-fns/locale/th/_lib/match.js1723891722291681031 0
